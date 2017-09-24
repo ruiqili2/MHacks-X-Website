@@ -144,33 +144,33 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     </style>
 
     <!-- main panel -->
-    <app-header-layout>
+    <!--<app-header-layout>-->
 
-      <app-header effects="resize-title" condenses fixed shadow slot="header">
-        <app-toolbar class="top-toolbar">
-          <slot name="drawer-toggle"></slot>
-          <div condensed-title></div>
-        </app-toolbar>
-        <app-toolbar class="bottom-toolbar">
-          <div main-title></div>
-        </app-toolbar>
-      </app-header>
+      <!--<app-header effects="resize-title" condenses fixed shadow slot="header">-->
+        <!--<app-toolbar class="top-toolbar">-->
+          <!--<slot name="drawer-toggle"></slot>-->
+          <!--<div condensed-title></div>-->
+        <!--</app-toolbar>-->
+        <!--<app-toolbar class="bottom-toolbar">-->
+          <!--<div main-title></div>-->
+        <!--</app-toolbar>-->
+      <!--</app-header>-->
 
-      <div class="content">
-        <template is="dom-repeat" items="{{scanners}}"><!-- No empty text node
-        --><a href="#/detail/{{item.id}}" class="card-container">
-            <paper-card image="{{item.imageUrl}}">
-              <div class="card-content">
-                <h2>{{item.name}}</h2>
-                <p>By <span>{{item.author}}</span></p>
-              </div>
-            </paper-card>
-          </a><!-- No empty text node
-      --></template>
-      </div>
+      <!--<div class="content">-->
+        <!--<template is="dom-repeat" items="{{scanners}}">&lt;!&ndash; No empty text node-->
+        <!--&ndash;&gt;<a href="#/detail/{{item.id}}" class="card-container">-->
+            <!--<paper-card image="{{item.imageUrl}}">-->
+              <!--<div class="card-content">-->
+                <!--<h2>{{item.name}}</h2>-->
+                <!--<p>By <span>{{item.author}}</span></p>-->
+              <!--</div>-->
+            <!--</paper-card>-->
+          <!--</a>&lt;!&ndash; No empty text node-->
+      <!--&ndash;&gt;</template>-->
+      <!--</div>-->
 
-    </app-header-layout>
-
+    <!--</app-header-layout>-->
+    <h>More Function Coming!</h>
     <!--<paper-fab icon="app:create"></paper-fab>-->
   </template>
 

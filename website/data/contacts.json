@@ -7,7 +7,7 @@
     "major": "Computer Science & Statistics",
     "year": "Junior",
     "email": "ruiqili2@illinois.edu",
-    "phone": "2174195482",
+    "phone": "217-419-5482",
     "imageUrl": "../images/zoe.jpg",
     "description": "A statistician who cannot build an app is not a good chief."
     
@@ -19,20 +19,20 @@
     "major": "Computer Science & Astronomy",
     "year": "Junior",
     "email": "sibow2@illinois.edu",
-    "phone": "2179043630",
+    "phone": "217-904-3630",
     "imageUrl": "../images/wsb.jpg",
-    "description": "I'm Sibo Wang. \n"
+    "description": "I skip Kingsman for MHacks...\n"
   },
   {
     "id": "3",
     "name": "Ruiqian Yao",
     "college": "University of Illinois Urbana Champaign",
     "major": "Computer Science & More Computer Science",
-    "year": "Junior",
+    "year": "Senior",
     "email": "ruiqian2@illinois.edu",
     "phone": "",
     "imageUrl": "../images/ryan.jpg",
-    "description": "I'm Ryan\n."
+    "description": "I'm Ryan.\n"
   }
 
 ]
