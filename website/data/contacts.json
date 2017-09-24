@@ -1,0 +1,38 @@
+[
+  {
+
+    "id": "1",
+    "name": "Ruiqi Li",
+    "college": "University of Illinois Urbana Champaign",
+    "major": "Computer Science & Statistics",
+    "year": "Junior",
+    "email": "ruiqili2@illinois.edu",
+    "phone": "2174195482",
+    "imageUrl": "../images/zoe.jpg",
+    "description": "A statistician who cannot build an app is not a good chief."
+    
+  },
+  {
+    "id": "2",
+    "name": "Sibo Wang",
+    "college": "University of Illinois Urbana Champaign",
+    "major": "Computer Science & Astronomy",
+    "year": "Junior",
+    "email": "sibow2@illinois.edu",
+    "phone": "2179043630",
+    "imageUrl": "../images/wsb.jpg",
+    "description": "I'm Sibo Wang. \n"
+  },
+  {
+    "id": "3",
+    "name": "Ruiqian Yao",
+    "college": "University of Illinois Urbana Champaign",
+    "major": "Computer Science & More Computer Science",
+    "year": "Junior",
+    "email": "ruiqian2@illinois.edu",
+    "phone": "",
+    "imageUrl": "../images/ryan.jpg",
+    "description": "I'm Ryan\n."
+  }
+
+]
