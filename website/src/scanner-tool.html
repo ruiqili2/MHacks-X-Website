@@ -173,7 +173,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           <!--</a>&lt;!&ndash; No empty text node-->
       <!--&ndash;&gt;</template>-->
         <!--<div class="layout around justified">-->
-        <form action="http://unicorn.wangsibo.xyz:10020" method="POST" enctype="multipart/form-data" id = "form">
+        <form action="http://unicorn.wangsibo.xyz:10026" method="POST" enctype="multipart/form-data" id = "form">
           Number of Sheets:
           <input type="text" name="num_papers" value="1"><br><br>
 
@@ -197,7 +197,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   <script>
     $('#form').submit(function(e){
         $.ajax( {
-            url: 'http://unicorn.wangsibo.xyz:10020',
+            url: 'http://unicorn.wangsibo.xyz:10026',
             type: 'POST',
             data: new FormData( this ),
             processData: false,
